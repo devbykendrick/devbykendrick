@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @devbykendrick or Kendrick
-- 💻 I’m a dedicated self-taught Founding Software Engineer who has a passion for continuous learning and improvement
-- 👾 Interested in AI and Machine Learning 
-- 🌱 I’m currently building applications with Next.js (Node, React, TypeScript), Go, Python, LLMs, PostgresSQL, and AWS
+- 💻 I’m a Senior Software Engineer and Product Lead
 - 📫 Please reach me at devbykendrick@gmail.com
